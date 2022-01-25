@@ -1,0 +1,196 @@
+.icon-nav{
+    font-size: 20px;
+    margin-top: -9px;
+    margin-bottom: -5px;
+}
+.icon-add-vehicle{
+    font-size: 40px !important;
+}
+.icon-return{
+    margin-bottom: -10px;
+}
+.box-icon-return{
+    margin-bottom: 30px;
+}
+.card-padding{
+   padding: 64px !important;
+}
+.card-add{
+    color: #407ec5 !important;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.logo-nav{
+    font-family: 'Fugaz One', cursive !important;
+    color: #005aa1 !important;
+}
+.a{
+    color: #0a69b77c !important;
+    text-decoration: none !important;
+}
+.modal-body{
+    background-color: #eeeeee !important;
+    font-family: 'Roboto', sans-serif;
+}
+.modal-footer {
+    background-color: #eeeeee !important;
+    font-family: 'Roboto', sans-serif;
+}
+.a:hover {color: #0a69b7a8 !important;}
+.font-badge{font-family: 'Fugaz One', cursive !important;}
+
+.icon-car{
+    font-size: 45px;
+    margin: 0 auto;
+}
+.icon-crud{
+    font-size: 22px;
+    color: #ffcc00;
+}
+
+.add-vehicle{
+    width: 50% !important;
+    margin: 0 auto;
+}
+
+.space{
+  
+    margin: 0 auto !important;
+   
+}
+.box-add-vehicle{
+    border: 1px solid #407ec5;
+    background-color: #407ec5;
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-button{
+    margin-top: 30px;
+}
+
+.btn-icon{
+    margin-top: 2px;
+}
+
+.btn-icon-view{
+    margin-top: 7px;
+}
+.btn-custom{
+    width: 60px;
+}
+
+.title-servico{
+    font-size: 20px;
+    white-space: 10px;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+.container01{
+    margin-left: 69px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+.form-group{
+    padding: 5px;
+}
+
+.button {
+    margin-top: 35px;
+}
+.car{
+    margin-bottom: -10px;
+}
+.car-sport{
+    width: 25%;
+}
+.motobike-sport{
+    width: 22%;
+    margin-top: 10px;
+    margin-bottom: -5px;
+}
+
+.user{
+    margin-top: 20px;
+    padding-left: 8px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.td-space{
+    padding: 3px;
+}
+.title-top{
+    margin-top: -8px;
+    margin-bottom: 10px;
+}
+.font-card{
+    font-family: 'Fjalla One', sans-serif;
+}
+.with-space{
+    
+    width: 800px;
+}
+.box-sky-row{
+   border: 1px solid #0a69b7a8 !important;
+   border-radius: 5px;
+   padding: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+}
+@media (min-width: 767px) {
+    .co{
+        margin-bottom: -36px !important;
+        width: 630px !important;
+        margin-left: 140px !important;
+    }
+}
+.h1{
+    font-size: 200px;
+}
+
+.bg-color{
+    background-color: rgba(51, 107, 173, 0.8) !important;
+    
+}
+
+
+
+/* VIEW AGENDAR SERVICO */
+
+.img-gif{
+    width: 90%;
+    margin-top: -50px;
+    margin-bottom: -50px;
+    position: static;
+}
+
+.pos{
+    position: relative;
+}
+
+label{
+    color: #0a69b7a8;
+}
+
+.btn-sky {
+    color: #fff;
+    background-color: #0a69b7a8;
+    border-color: #37a1f87a;
+}
+.btn-sky:hover {
+  color: #02182ba8;
+  text-decoration: none;
+}
+
+
+@media screen and (max-width: 767px) {
+  .img-gif {
+   margin-top: -30px;
+   margin-bottom: -30px;
+  }
+}
